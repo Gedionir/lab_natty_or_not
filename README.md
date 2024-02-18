@@ -46,7 +46,7 @@ Uma IA generativa pode escrever um poema, desenhar um animal ou compor uma músi
        
 
 ## 🧐 Criando uma apresentação no Gamma AI
-1º - Entre no site https://gamma.app/.
+***1º - Entre no site https://gamma.app/.***
 2º - Crie uma conta, cadastrando-se.
 3º - Crie um novo projeto - Click em Criar novo AI
 4º - Vai no link Gerar e depois click em Apresentação.
