@@ -56,4 +56,4 @@ Uma IA generativa pode escrever um poema, desenhar um animal ou compor uma músi
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Foi criado uma apresentação em PDF pelo gamma.app, a partir de uma inteligência artificial generativa.
+Foi criado a apresentação "O-que-e-Inteligencia-Artificial-Generativa.pdf" pelo gamma.app, a partir de uma inteligência artificial generativa.
