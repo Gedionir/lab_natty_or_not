@@ -41,7 +41,7 @@ Uma IA generativa pode escrever um poema, desenhar um animal ou compor uma músi
 - Redes Neurais Adversárias (GANs): Essas redes, propostas por Ian Goodfellow, consistem em um gerador e um discriminador que trabalham juntos para produzir dados autênticos ou gerados. As GANs revolucionaram a criação de conteúdo generativo, permitindo a geração de imagens, textos, áudios e outros tipos de dados com qualidade impressionante;
 - GPT-2: Lançado pela OpenAI, o GPT-2 é um modelo de linguagem que demonstrou a capacidade de gerar texto coerente e relevante;
 - Bing Chat: É uma inteligência artificial generativa desenvolvida pela Microsoft. Ele utiliza o poderoso modelo GPT-4 para aprimorar a experiência de pesquisa na internet através do mecanismo de busca Bing.
-- Leonardo AI: É uma plataforma revolucionária que combina tecnologia de inteligência artificial generativa com a criatividade humana para criar conteúdo visual de alta qualidade, além disso você pode gerar arte distinta usando modelos de IA pré-treinados ou treinar seus próprios modelos;
+- Leonardo AI: É uma plataforma revolucionária que combina tecnologia de inteligência artificial generativa com a criatividade humana para criar conteúdo visual de alta qualidade, além disso, você pode gerar arte distinta usando modelos de IA pré-treinados ou treinar seus próprios modelos;
 - Gamma AI: É uma plataforma inovadora que utiliza a inteligência artificial para criar conteúdo envolvente. Essa ferramenta oferece uma nova abordagem para apresentar ideias, eliminando a necessidade de trabalho manual de formatação e design. O ponto forte é a criação de apresentações, páginas da web e documentos visualmente atraentes de forma rápida e fácil;
        
 
@@ -56,14 +56,4 @@ Uma IA generativa pode escrever um poema, desenhar um animal ou compor uma músi
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Foi criado uma apresentação em PDF pelo gamma.app, a partir de uma inteligência artificial generativa.
